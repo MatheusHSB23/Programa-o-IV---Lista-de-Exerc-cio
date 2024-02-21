@@ -1,0 +1,14 @@
+C:\Codigo\ProgIV\Lista01\Lista01\bin\Debug\net8.0\Lista01.exe
+C:\Codigo\ProgIV\Lista01\Lista01\bin\Debug\net8.0\Lista01.deps.json
+C:\Codigo\ProgIV\Lista01\Lista01\bin\Debug\net8.0\Lista01.runtimeconfig.json
+C:\Codigo\ProgIV\Lista01\Lista01\bin\Debug\net8.0\Lista01.dll
+C:\Codigo\ProgIV\Lista01\Lista01\bin\Debug\net8.0\Lista01.pdb
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.AssemblyInfoInputs.cache
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.AssemblyInfo.cs
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.csproj.CoreCompileInputs.cache
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.dll
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\refint\Lista01.dll
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.pdb
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\Lista01.genruntimeconfig.cache
+C:\Codigo\ProgIV\Lista01\Lista01\obj\Debug\net8.0\ref\Lista01.dll
